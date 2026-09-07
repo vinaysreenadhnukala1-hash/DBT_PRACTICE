@@ -1,0 +1,9 @@
+provider_id,npi,provider_name,provider_type,specialty,tax_id,state,zip_code,network_status,contract_start_date,contract_end_date,created_at
+P001,1234567890,Austin Medical Group,GROUP,Primary Care,12-3456789,TX,78701,IN_NETWORK,2020-01-01,,2019-12-01
+P002,2345678901,Dallas Cardiology Associates,GROUP,Cardiology,23-4567890,TX,78702,IN_NETWORK,2021-06-01,,2021-05-01
+P003,3456789012,LA Health Partners,GROUP,Multi-Specialty,34-5678901,CA,90210,IN_NETWORK,2019-01-01,,2018-12-01
+P004,4567890123,NYC General Hospital,HOSPITAL,Hospital,45-6789012,NY,10001,IN_NETWORK,2018-01-01,,2017-12-01
+P005,5678901234,Miami Wellness Clinic,GROUP,Primary Care,56-7890123,FL,33101,OUT_OF_NETWORK,,,2020-06-01
+P006,6789012345,Houston Orthopedics,GROUP,Orthopedics,67-8901234,TX,78703,IN_NETWORK,2022-01-01,,2021-12-01
+P007,7890123456,San Diego Mental Health,GROUP,Behavioral Health,78-9012345,CA,90211,IN_NETWORK,2021-01-01,,2020-12-01
+P008,8901234567,Chicago Lab Services,LAB,Laboratory,89-0123456,IL,60601,IN_NETWORK,2020-06-01,,2020-05-01

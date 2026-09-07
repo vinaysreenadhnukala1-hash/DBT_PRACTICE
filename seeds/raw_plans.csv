@@ -1,0 +1,4 @@
+plan_id,plan_name,plan_type,deductible_individual,deductible_family,oop_max_individual,oop_max_family,premium_individual,premium_family,copay_pcp,copay_specialist,coinsurance_pct,effective_date,termination_date
+PLAN_HMO_001,Humana HMO Select,HMO,1500.00,3000.00,5000.00,10000.00,350.00,980.00,20.00,40.00,20,2023-01-01,2024-01-01
+PLAN_PPO_002,Humana PPO Plus,PPO,2000.00,4000.00,7000.00,14000.00,420.00,1176.00,30.00,60.00,20,2023-01-01,2024-01-01
+PLAN_EPO_003,Humana EPO Core,EPO,1000.00,2000.00,4000.00,8000.00,380.00,1064.00,25.00,50.00,20,2023-01-01,2024-01-01
