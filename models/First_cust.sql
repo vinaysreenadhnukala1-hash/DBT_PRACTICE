@@ -1,1 +1,7 @@
+{{
+    config(
+        materialized='table'
+    )
+}}
+
 SELECT ID, upper(CONCAT(FIRSTNAME,'_',LASTNAME)) as NAME FROM DBT_ELT.BRONZE_LAYER.CUST_INFO_DBT
