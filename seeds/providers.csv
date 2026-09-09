@@ -1,0 +1,11 @@
+provider_id,npi,provider_name,provider_type,specialty,network_status,state,zip_code,tax_id,updated_at
+PRV001,1234567890,Dr. Sarah Connor,Physician,Cardiology,in_network,TX,75001,12-3456789,2024-01-05 09:00:00
+PRV002,2345678901,Dr. Alan Turing,Physician,Primary Care,in_network,CA,90001,23-4567890,2024-01-05 09:00:00
+PRV003,3456789012,City General Hospital,Facility,Hospital,in_network,FL,33101,34-5678901,2024-01-05 09:00:00
+PRV004,4567890123,Dr. Marie Curie,Physician,Oncology,out_of_network,NY,10001,45-6789012,2024-01-05 09:00:00
+PRV005,5678901234,Wellness Clinic LLC,Facility,Urgent Care,in_network,TX,77001,56-7890123,2024-01-05 09:00:00
+PRV006,6789012345,Dr. James Watson,Physician,Orthopedics,in_network,OH,43001,67-8901234,2024-01-05 09:00:00
+PRV007,7890123456,Sunrise Pharmacy,Pharmacy,Pharmacy,in_network,IL,60601,78-9012345,2024-01-05 09:00:00
+PRV008,8901234567,Dr. Florence Night,Physician,Pediatrics,in_network,AZ,85001,89-0123456,2024-01-05 09:00:00
+PRV009,9012345678,Pacific Surgery Center,Facility,Surgery,out_of_network,WA,98001,90-1234567,2024-01-05 09:00:00
+PRV010,0123456789,Dr. Gregory House,Physician,Internal Medicine,in_network,GA,30301,01-2345678,2024-01-05 09:00:00
